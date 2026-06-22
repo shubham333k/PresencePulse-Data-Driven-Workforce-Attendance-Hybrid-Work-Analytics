@@ -46,45 +46,32 @@ Engagement Tracking: Pinpointed departments with inconsistent attendance pattern
 
 Data Workflow
 
-1.
-Data Ingestion: Processed raw attendance datasets from Microsoft Excel.
+1. Data Ingestion: Processed raw attendance datasets from Microsoft Excel.
 
-2.
-ETL & Transformation: Utilized Power Query for advanced data cleaning and schema modeling.
+2. ETL & Transformation: Utilized Power Query for advanced data cleaning and schema modeling.
 
-3.
-Calculations: Developed custom DAX measures for KPIs like Presence %, WFH %, and Sick Leave %.
+3. Calculations: Developed custom DAX measures for KPIs like Presence %, WFH %, and Sick Leave %.
 
-4.
-Visualization: Built an interactive multi-page report with slicers for date ranges, departments, and employee-specific views.
+4. Visualization: Built an interactive multi-page report with slicers for date ranges, departments, and employee-specific views.
 
 Tech Stack
 
-•
-BI Tool: Power BI Desktop
+• BI Tool: Power BI Desktop
 
-•
-Data Cleaning: Power Query (M Language)
+• Data Cleaning: Power Query (M Language)
 
-•
-Analytics: DAX (Data Analysis Expressions)
+• Analytics: DAX (Data Analysis Expressions)
 
-•
-Source: Microsoft Excel / CSV
-
-
+• Source: Microsoft Excel / CSV
 
 
 💡 Business Use Cases
 
-•
-HR Workforce Monitoring: Real-time tracking of employee presence across the organization.
+• HR Workforce Monitoring: Real-time tracking of employee presence across the organization.
 
-•
-Remote Work Policy Design: Data-backed decisions on "Work from Home" vs "Work from Office" ratios.
+• Remote Work Policy Design: Data-backed decisions on "Work from Home" vs "Work from Office" ratios.
 
-•
-Resource Planning: Identifying peak absenteeism periods to ensure adequate staffing.
+• Resource Planning: Identifying peak absenteeism periods to ensure adequate staffing.
 
 
 
@@ -108,14 +95,11 @@ Plain Text
 Shubham Kumar
 Computer Science (AIML) Undergraduate
 
-•
-LinkedIn: https://www.linkedin.com/in/shubham-kumar-565040253/
+• LinkedIn: https://www.linkedin.com/in/shubham-kumar-565040253/
 
-•
-GitHub: https://github.com/shubham333k
+• GitHub: https://github.com/shubham333k
 
-•
-Email: shubhamjhanjhot333k@gmail.com
+• Email: shubhamjhanjhot333k@gmail.com
 
 
 
